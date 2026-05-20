@@ -3,6 +3,7 @@ import { shareMeal } from '@/lib/action';
 import classes from './page.module.css';
 
 export default function ShareMealPage() {
+
   return (
     <>
       <header className={classes.header}>
